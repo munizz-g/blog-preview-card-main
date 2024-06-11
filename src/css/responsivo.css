@@ -1,0 +1,13 @@
+@media (max-width: 375px){
+   
+    .card{
+    width: 300px;
+    height: 501px;
+   }
+
+   .header img{
+    height: 200px;
+    width: 279px;
+    margin: 24px;
+   }
+}
