@@ -5,7 +5,6 @@ Esta é uma solução para o desafio do cartão de visualização do blog no Fro
 ## Visão geral
 ![alt text](./src/images/readme.png)
 
-##Links
 
 - [Solução e código](https://github.com/munizz-g/blog-preview-card-main)
 - [Site ativo](https://munizz-g.github.io/blog-preview-card-main/)
