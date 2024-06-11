@@ -1,13 +1,16 @@
-@media (max-width: 375px){
-   
+@media (max-width: 420px){
+   body{
+      height: 375px;
+      weight: 812px;
+   }
+
     .card{
-    width: 300px;
+    width: 327px;
     height: 501px;
    }
 
-   .header img{
-    height: 200px;
-    width: 279px;
-    margin: 24px;
+    .informacoes h2{
+      font-size: 20px; 
    }
 }
+
