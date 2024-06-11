@@ -7,8 +7,8 @@ Esta é uma solução para o desafio do cartão de visualização do blog no Fro
 
 ##Links
 
-- URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione o URL do site ativo aqui](https://your-live-site-url.com)
+- [Solução e código](https://github.com/munizz-g/blog-preview-card-main)
+- [Site ativo](https://munizz-g.github.io/blog-preview-card-main/)
 
 ## Meu processo
 
