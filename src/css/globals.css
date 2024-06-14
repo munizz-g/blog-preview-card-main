@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-@font-face {
-    font-family: 'Figtree';
-    src: url(../../assets/fonts/Figtree-VariableFont_wght.ttf);
-}
 
 :root{
     --bg-color: #f4d04e;
