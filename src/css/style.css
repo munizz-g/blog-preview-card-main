@@ -30,7 +30,7 @@ body{
 
 .informacoes h1{
     background-color: var(--bg-color);
-    weight: 82px;
+    width: 82px;
     height: 29px;
     display: inline-block;
     font-weight: 800;
