@@ -53,10 +53,6 @@ Para ver como você pode adicionar trechos de código, veja abaixo:
 Continuar me aprofundando nos estudos em responsividade e explorar as capacidades do Flexbox são os próximos passos que irei seguir. Em seguida pretendo aprender a trabalhar com Grid, para então poder melhorar o meu desempenho na criação de páginas nas quais poderei aplicar não somente o Grid, mas também o flexbox e a responsividade em conjunto. Habilidades que são essenciais para se tornar um desenvolvedor web mais habilidoso. 
 
 
-
-
-**Nota: Exclua esta nota e substitua a lista acima por recursos que ajudaram você durante o desafio. Eles podem ser úteis para qualquer pessoa que esteja visualizando sua solução ou para você mesmo quando analisar este projeto no futuro.**
-
 ## Autor
 
 - Perfil do Frontend Mentor - [@munizz-g](https://www.frontendmentor.io/profile/munizz-g)
